@@ -1,7 +1,7 @@
 """"
    Algoritmo de Cristian
    Codigo Cliente
-   Hernandez Martinez miguel Angel 
+   Hernandez Martinez Miguel Angel 
    Nava Rosales Juan Manuel
 """
 #librerias
