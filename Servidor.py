@@ -1,7 +1,7 @@
 """"
    Algoritmo de Cristian
    Codigo Servidor
-   Hernandez Martinez miguel Angel 
+   Hernandez Martinez Miguel Angel 
    Nava Rosales Juan Manuel
 """
 #librerias
