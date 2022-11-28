@@ -2,7 +2,7 @@
    Algoritmo de Cristian
    Codigo Cliente
    Hernandez Martinez miguel Angel 
-   Nava Manuel
+   Nava Rosales Juan Manuel
 """
 #librerias
 from socket import*
